@@ -1,0 +1,9 @@
+[submodule "Mediconsent_API"]
+	path = Mediconsent_API
+	url = https://github.com/Saltchichi/Mediconsent_API
+[submodule "Mediconsent_MOBILE"]
+	path = Mediconsent_MOBILE
+	url = https://github.com/AGoubs/Mediconsent_dev
+[submodule "Mediconsent_WEBSITE"]
+	path = Mediconsent_WEBSITE
+	url = https://github.com/AGoubs/Mediconsent_remake
